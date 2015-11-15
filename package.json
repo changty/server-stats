@@ -1,0 +1,24 @@
+{
+  "name": "server-stats",
+  "version": "1.0.0",
+  "description": "Send server stats via RESTful api ",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changty/server-stats.git"
+  },
+  "author": "Einari Kurvinen",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/changty/server-stats/issues"
+  },
+  "homepage": "https://github.com/changty/server-stats#readme"
+}
